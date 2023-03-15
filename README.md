@@ -4,6 +4,8 @@
 >
 > -- <cite>Isaac Asimov</cite>
 
+The game is available [here](https://rsandagon.github.io/chatgpt-driven-js-game)
+
 ![alt text](https://github.com/rsandagon/chatgpt-driven-js-game/blob/main/screenshot.jpg?raw=true)
 
 ##  Transcript of ChatGPT Chat
